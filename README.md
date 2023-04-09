@@ -17,6 +17,8 @@ To install the application, follow these steps:
 Clone the repository or download the source code.
 Install the required dependencies using pip install -r requirements.txt.
 Run the portscanner.py script.
+
+
 **Dependencies**
 Python 3.10.11
 PyQt5
